@@ -1,4 +1,4 @@
-[```
+```
 ██╗    ██╗ █████╗ ███████╗██╗██████╗
 ██║    ██║██╔══██╗██╔════╝██║██╔══██╗
 ██║ █╗ ██║███████║███████╗██║██████╔╝
@@ -128,4 +128,3 @@ $ whoami --social
 *I let the code do the talking.*
 
 </div>
-](https://wasib-2005.github.io/Portfolio/#about)
