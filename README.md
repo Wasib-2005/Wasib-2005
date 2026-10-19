@@ -13,10 +13,13 @@
 
 **Wasibul Islam Wasib** · Bangladesh 🇧🇩 · Born May 11, 2006
 
-Student. Builder. Experimenter. Man of few words — the code talks for me.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%2B+Node.js+%2B+Express+%2B+MongoDB;Man+of+Few+Words;Curious+by+Nature" alt="Typing animation: Full-Stack Developer, MERN, Man of Few Words, Curious by Nature" />
+
+Student. Builder. Experimenter — the code talks for me.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wasib--2005.github.io-00f0ff?style=flat-square&logo=github&logoColor=black)](https://wasib-2005.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-wasibulislam8984@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wasibulislam8984@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wasib2005-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasib2005)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801855005875)
 
 </div>
@@ -26,15 +29,14 @@ Student. Builder. Experimenter. Man of few words — the code talks for me.
 ## `> cat about.txt`
 
 ```
-$ profile --display
-
-  Name      :  Wasibul Islam Wasib
-  Location  :  Bangladesh
-  Role      :  Full-Stack Web Developer (MERN)
-  Stack     :  MongoDB · Express · React · Node.js · Vite
-  Interests :  Networking · Anime · Manga · Web Series
-  Style     :  Build alone. Ship clean. Talk less.
-  Status    :  Student · Always experimenting
+Name      :  Wasibul Islam Wasib
+Location  :  Bangladesh
+Role      :  Full-Stack Web Developer (MERN)
+Stack     :  MongoDB · Express · React · Node.js · Vite
+Study     :  Computer Science & Technology · Munshiganj Polytechnic
+Interests :  Networking · Anime · Manga · Web Series
+Style     :  Build alone. Ship clean. Talk less.
+Status    :  Student · Always experimenting
 ```
 
 ---
@@ -43,32 +45,19 @@ $ profile --display
 
 <div align="center">
 
-### ⚡ Frontend
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=react,vite,js,html,css&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py&theme=dark&perline=5" alt="HTML, CSS, JavaScript, TypeScript, Python" />
 
-<br/>
+### ⚡ Frameworks & Database
 
-### 🛠️ Backend & Database
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&theme=dark&perline=5" alt="React, Vite, Node.js, Express, MongoDB" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=5" />
+### 🔧 Tools
 
-<br/>
-
-### 🔧 Tools & Interests
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" alt="Git, GitHub, VS Code, Linux" />
 
 </div>
-
----
-
-## `> ls ./projects`
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Inventory Management System**](https://github.com/Wasib-2005/Inventory-Management-System) | Full-stack solo-built web app — product tracking, stock control, management flows end-to-end | React · Vite · Express · MongoDB |
-| [**Portfolio**](https://wasib-2005.github.io/Portfolio/) | Personal dev portfolio with cyberpunk aesthetic, matrix rain, and scroll animations | HTML · CSS · Vanilla JS |
 
 ---
 
@@ -76,11 +65,10 @@ $ profile --display
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasib-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Wasib-2005)
+<a href="https://github.com/Wasib-2005"><img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wasib-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=58a6ff" /></a>
+<a href="https://github.com/Wasib-2005"><img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasib-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" /></a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasib-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9)](https://github.com/Wasib-2005)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wasib-2005&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=00f0ff&fire=ffa657&currStreakLabel=c9d1d9)](https://github.com/Wasib-2005)
+<a href="https://github.com/Wasib-2005"><img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Wasib-2005&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=00f0ff&fire=ffa657&currStreakLabel=c9d1d9" /></a>
 
 </div>
 
@@ -89,10 +77,10 @@ $ profile --display
 ## `> cat roadmap.md`
 
 ```
-🔥  NOW    →  MERN · Full-Stack · Networking
-📦  NEXT   →  Python · Data fundamentals
-🧠  SOON   →  ML basics · real projects
-🚀  GOAL   →  Build intelligent systems
+NOW    →  MERN · TypeScript · Networking
+NEXT   →  Python deep-dive · Data fundamentals
+SOON   →  ML basics · real projects
+GOAL   →  Build intelligent systems
 ```
 
 ---
@@ -111,12 +99,11 @@ Gaming         Mobile Legends · Genshin · GTA V · Forza
 ## `> contact --reach-me`
 
 ```
-$ whoami --social
-
-  Email     :  wasibulislam8984@gmail.com
-  WhatsApp  :  +880 1855-005875
-  Portfolio :  https://wasib-2005.github.io/Portfolio/
-  Open to   :  Collabs · Projects · Interesting problems
+Email     :  wasibulislam8984@gmail.com
+WhatsApp  :  +880 1855-005875
+LinkedIn  :  linkedin.com/in/wasib2005
+Portfolio :  https://wasib-2005.github.io/Portfolio/
+Open to   :  Collabs · Projects · Interesting problems
 ```
 
 ---
