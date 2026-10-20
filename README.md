@@ -11,16 +11,17 @@
 
 # `> whoami`
 
-**Wasibul Islam Wasib** · Bangladesh 🇧🇩 · Born May 11, 2006
+**Wasibul Islam Wasib** · Born May 11, 2006
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%2B+Node.js+%2B+Express+%2B+MongoDB;Man+of+Few+Words;Curious+by+Nature" alt="Typing animation: Full-Stack Developer, MERN, Man of Few Words, Curious by Nature" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;React+%2B+Node.js+%2B+Express+%2B+MongoDB;Man+of+Few+Words;Curious+by+Nature" alt="Typing animation: Full-Stack Developer, MERN, Man of Few Words, Curious by Nature" />
 
 Student. Builder. Experimenter — the code talks for me.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wasib--2005.github.io-00f0ff?style=flat-square&logo=github&logoColor=black)](https://wasib-2005.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-wasibulislam8984@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wasibulislam8984@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wasib2005-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasib2005)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801855005875)
+<a href="https://wasib-2005.github.io/Portfolio/"><img height="36" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-wasib--2005.github.io-00f0ff?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="mailto:wasibulislam8984@gmail.com"><img height="36" alt="Email" src="https://img.shields.io/badge/Email-wasibulislam8984@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/wasib2005"><img height="36" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-wasib2005-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/8801855005875"><img height="36" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
@@ -30,7 +31,6 @@ Student. Builder. Experimenter — the code talks for me.
 
 ```
 Name      :  Wasibul Islam Wasib
-Location  :  Bangladesh
 Role      :  Full-Stack Web Developer (MERN)
 Stack     :  MongoDB · Express · React · Node.js · Vite
 Study     :  Computer Science & Technology · Munshiganj Polytechnic
