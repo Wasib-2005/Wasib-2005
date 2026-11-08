@@ -9,6 +9,7 @@
 Student. Builder. Experimenter — the code talks for me.
 
 <a href="https://wasib-2005.github.io/Portfolio/"><img height="36" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-wasib--2005.github.io-00f0ff?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="https://wasib-2005.github.io/Portfolio2/"><img height="36" alt="Portfolio 2" src="https://img.shields.io/badge/Portfolio%202-wasib--2005.github.io%2FPortfolio2-00f0ff?style=for-the-badge&logo=github&logoColor=black" /></a>
 <a href="mailto:wasibulislam8984@gmail.com"><img height="36" alt="Email" src="https://img.shields.io/badge/Email-wasibulislam8984@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <a href="https://docs.google.com/document/d/e/2PACX-1vQ2dxufnRa-EWvB6Ms33Puq4DzZs55pEQIjAZyUDkd0qFXf9BLLxd2UyL3Kmib-JSTzIpYsUWUErnTl/pub"><img height="36" alt="CV" src="https://img.shields.io/badge/CV-Download-00f0ff?style=for-the-badge&logo=googledocs&logoColor=black" /></a>
@@ -97,12 +98,13 @@ Gaming         Mobile Legends · Genshin · GTA V · Forza
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ```
-Email     :  wasibulislam8984@gmail.com
-WhatsApp  :  +880 1855-005875
-LinkedIn  :  linkedin.com/in/wasib2005
-Portfolio :  https://wasib-2005.github.io/Portfolio/
-CV        :  https://docs.google.com/document/d/e/2PACX-1vQ2dxufnRa-EWvB6Ms33Puq4DzZs55pEQIjAZyUDkd0qFXf9BLLxd2UyL3Kmib-JSTzIpYsUWUErnTl/pub
-Open to   :  Collabs · Projects · Interesting problems
+Email      :  wasibulislam8984@gmail.com
+WhatsApp   :  +880 1855-005875
+LinkedIn   :  linkedin.com/in/wasib2005
+Portfolio  :  https://wasib-2005.github.io/Portfolio/
+Portfolio2 :  https://wasib-2005.github.io/Portfolio2/
+CV         :  https://docs.google.com/document/d/e/2PACX-1vQ2dxufnRa-EWvB6Ms33Puq4DzZs55pEQIjAZyUDkd0qFXf9BLLxd2UyL3Kmib-JSTzIpYsUWUErnTl/pub
+Open to    :  Collabs · Projects · Interesting problems
 ```
 
 <div align="center">
