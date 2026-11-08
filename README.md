@@ -24,7 +24,7 @@ Student. Builder. Experimenter — the code talks for me.
 ```
 Name      :  Wasibul Islam Wasib
 Role      :  Full-Stack Web Developer (MERN)
-Stack     :  MongoDB · Express · React · Node.js · Vite
+Stack     :  MongoDB · Express · React · Node.js · Vite · Next.js
 Study     :  Computer Science & Technology · Munshiganj Polytechnic
 Interests :  Networking · Anime · Manga · Web Series
 Style     :  Build alone. Ship clean. Talk less.
@@ -44,7 +44,7 @@ Status    :  Student · Always experimenting
 
 ### ⚡ Frameworks & Database
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,expo&theme=dark&perline=6" alt="React, Vite, Node.js, Express, MongoDB, Expo" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,mongodb,expo&theme=dark&perline=7" alt="React, Next.js, Vite, Node.js, Express, MongoDB, Expo" />
 
 ### 🔧 Tools
 
